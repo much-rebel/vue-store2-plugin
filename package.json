@@ -1,6 +1,6 @@
 {
   "name": "vue-store2-plugin",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Vue plugin to integrate store2",
   "main": "store2.js",
   "scripts": {
