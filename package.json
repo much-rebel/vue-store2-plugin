@@ -1,0 +1,23 @@
+{
+  "name": "vue-store2-plugin",
+  "version": "1.0.0",
+  "description": "Vue plugin to integrate store2",
+  "main": "store2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "plugin",
+    "store2"
+  ],
+  "author": "David Gegelija <code@imdavid.xyz>",
+  "license": "ISC",
+  "dependencies": {
+    "store2": "^2.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piscisLT/vue-store2-plugin.git"
+  },
+}
